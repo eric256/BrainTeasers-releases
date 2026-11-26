@@ -30,7 +30,9 @@ Tap a puzzle to see:
 
 <img src="images/play_sudoku.png" width="280" alt="Sudoku with a hint">
 
-The timer runs while you play and pauses when you leave the app. **Undo** takes back your last move.
+The timer runs while you play and pauses when you leave the app. Most puzzles mark broken rules in red
+(two equal numbers in a row, an over-full clue, a 2×2 pool…); the **Highlight mistakes** switch under the
+board turns this off if you'd rather find them yourself. It's remembered for each puzzle. **Undo** takes back your last move.
 Letters along the top and numbers down the side name every square, like a chessboard: hints say things
 like "the 2 at h6".
 
