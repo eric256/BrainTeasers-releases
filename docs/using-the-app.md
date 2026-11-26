@@ -77,7 +77,8 @@ mistake.
 
 The profile button at the top right of the home screen shows your overall stats, and lets you choose:
 
-- **Theme:** System, Light or Dark
+- **Look:** Classic, Pencil (graphite on paper, like the puzzle books), Neon (glowing lines on a midnight board) or High contrast (bold and colour-blind friendly)
+- **Light or dark:** System, Light or Dark (Neon is always dark)
 - **Home screen:** list or tiles
 - **What's new**, **Check for updates** and **Open-source licenses**
 
