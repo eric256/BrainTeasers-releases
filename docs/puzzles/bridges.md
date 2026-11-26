@@ -28,4 +28,18 @@ Tap 🎓 on the Bridges menu for a short tutorial: these pages, then a guided pu
 
 **3. Solved!.** Every number is met and all islands are joined. Your turn!
 
+## Walkthrough
+
+The tutorial puzzle, solved step by step the way the in-app coach explains it. Each picture shows the board before the step, with the part of the board the step is about highlighted.
+
+| Board | Step |
+|---|---|
+| <img src="../images/walk_bridges_1.png" width="220" alt="Step 1"> | **1. Only one neighbour**<br>The 1 at c2 still needs 1 bridge, and the only island it can reach is the 2 at g2. So the bridge must go there. |
+| <img src="../images/walk_bridges_2.png" width="220" alt="Step 2"> | **2. Only one neighbour**<br>The 2 at g2 still needs 1 bridge, and the only island it can still reach is the 3 at g4 (its other neighbours are full or cut off by bridges). So the bridge must go there. |
+| <img src="../images/walk_bridges_3.png" width="220" alt="Step 3"> | **3. Only one neighbour**<br>The 1 at a3 still needs 1 bridge, and the only island it can reach is the 4 at d3. So the bridge must go there. |
+| <img src="../images/walk_bridges_4.png" width="220" alt="Step 4"> | **4. Only one neighbour**<br>The 2 at f3 still needs 2 bridges, and the only island it can reach is the 4 at d3. So both bridges must go there. |
+| <img src="../images/walk_bridges_5.png" width="220" alt="Step 5"> | **5. Every bridge is needed**<br>The 3 at d6 still needs 3 bridges. Between them, the islands it can still reach can take at most 3 more (no more than two per pair, and no more than each neighbour still needs). That's exactly enough, so build every one of them. |
+| <img src="../images/walk_bridges_6.png" width="220" alt="Step 6"> | **6. Every bridge is needed**<br>The 3 at g4 still needs 2 bridges. Between them, the islands it can still reach can take at most 2 more (no more than two per pair, and no more than each neighbour still needs). That's exactly enough, so build every one of them. |
+| <img src="../images/walk_bridges_solved.png" width="220" alt="Solved"> | **Solved!** Every rule is met. Now try a puzzle of your own. |
+
 [← All puzzles](README.md) · [Using the app](../using-the-app.md)

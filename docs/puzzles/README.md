@@ -15,6 +15,7 @@
 | <img src="../images/play_rectangles.png" width="120"> | **[Rectangles](rectangles.md)** | Split the grid into numbered rectangles |
 | <img src="../images/play_towers.png" width="120"> | **[Towers](towers.md)** | Build towers so the edge counts add up |
 | <img src="../images/play_islands.png" width="120"> | **[Islands](islands.md)** | Shade the sea around numbered islands |
+| <img src="../images/play_hexislands.png" width="120"> | **[Hex Islands](hexislands.md)** | Islands on a honeycomb of hexagons |
 | <img src="../images/play_pearls.png" width="120"> | **[Pearls](pearls.md)** | Draw one loop through every pearl |
 
 [← User guide](../README.md)

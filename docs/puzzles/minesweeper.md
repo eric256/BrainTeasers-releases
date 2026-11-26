@@ -28,4 +28,24 @@ Tap 🎓 on the Minesweeper menu for a short tutorial: these pages, then a guide
 
 **3. Cleared!.** Every safe square is open. Now try it — the coach will point out each safe move.
 
+## Walkthrough
+
+The tutorial puzzle, solved step by step the way the in-app coach explains it. Each picture shows the board before the step, with the part of the board the step is about highlighted.
+
+| Board | Step |
+|---|---|
+| <img src="../images/walk_minesweeper_1.png" width="220" alt="Step 1"> | **1. Find the mines**<br>The 1 at e1 needs 1 more mine, and it has exactly that many hidden neighbours left. They're all mines — flag them. |
+| <img src="../images/walk_minesweeper_2.png" width="220" alt="Step 2"> | **2. Find the mines**<br>The 2 at d2 needs 1 more mine, and it has exactly that many hidden neighbours left. They're all mines — flag them. |
+| <img src="../images/walk_minesweeper_3.png" width="220" alt="Step 3"> | **3. Find the mines**<br>The 1 at f3 needs 1 more mine, and it has exactly that many hidden neighbours left. They're all mines — flag them. |
+| <img src="../images/walk_minesweeper_4.png" width="220" alt="Step 4"> | **4. Safe squares**<br>The 1 at f4 already touches 1 flagged mine — all it needs. So its other hidden neighbours are safe to open. |
+| <img src="../images/walk_minesweeper_5.png" width="220" alt="Step 5"> | **5. Safe squares**<br>The 1 at f5 already touches 1 flagged mine — all it needs. So its other hidden neighbours are safe to open. |
+| <img src="../images/walk_minesweeper_6.png" width="220" alt="Step 6"> | **6. Find the mines**<br>The 1 at e5 needs 1 more mine, and it has exactly that many hidden neighbours left. They're all mines — flag them. |
+| <img src="../images/walk_minesweeper_7.png" width="220" alt="Step 7"> | **7. Safe squares**<br>The 1 at c5 already touches 1 flagged mine — all it needs. So its other hidden neighbours are safe to open. |
+| <img src="../images/walk_minesweeper_8.png" width="220" alt="Step 8"> | **8. Find the mines**<br>The 2 at c3 needs 2 more mines, and it has exactly that many hidden neighbours left. They're all mines — flag them. |
+| <img src="../images/walk_minesweeper_9.png" width="220" alt="Step 9"> | **9. Safe squares**<br>The 4 at c2 already touches 4 flagged mines — all it needs. So its other hidden neighbours are safe to open. |
+| <img src="../images/walk_minesweeper_10.png" width="220" alt="Step 10"> | **10. Safe squares**<br>The 2 at b1 already touches 2 flagged mines — all it needs. So its other hidden neighbours are safe to open. |
+| <img src="../images/walk_minesweeper_11.png" width="220" alt="Step 11"> | **11. Safe squares**<br>The 2 at a2 already touches 2 flagged mines — all it needs. So its other hidden neighbours are safe to open. |
+| <img src="../images/walk_minesweeper_12.png" width="220" alt="Step 12"> | **12. Safe squares**<br>The 1 at g5 already touches 1 flagged mine — all it needs. So its other hidden neighbours are safe to open. From here, the same techniques finish the puzzle. |
+| <img src="../images/walk_minesweeper_solved.png" width="220" alt="Solved"> | **Solved!** Every rule is met. Now try a puzzle of your own. |
+
 [← All puzzles](README.md) · [Using the app](../using-the-app.md)

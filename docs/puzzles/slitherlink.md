@@ -30,4 +30,24 @@ Tap 🎓 on the Slitherlink menu for a short tutorial: these pages, then a guide
 
 **3. Solved!.** One loop, every number satisfied — the inside is shaded so you can see it. Your turn!
 
+## Walkthrough
+
+The tutorial puzzle, solved step by step the way the in-app coach explains it. Each picture shows the board before the step, with the part of the board the step is about highlighted.
+
+| Board | Step |
+|---|---|
+| <img src="../images/walk_slitherlink_1.png" width="220" alt="Step 1"> | **1. A zero**<br>A 0 means none of the four sides of e2 is part of the loop. Cross them all out. |
+| <img src="../images/walk_slitherlink_2.png" width="220" alt="Step 2"> | **2. A zero**<br>A 0 means none of the four sides of b3 is part of the loop. Cross them all out. |
+| <img src="../images/walk_slitherlink_3.png" width="220" alt="Step 3"> | **3. Dead end**<br>Only one side at the top-right corner of e2 is still open. A line coming in would have nowhere to go, so that side is empty. |
+| <img src="../images/walk_slitherlink_4.png" width="220" alt="Step 4"> | **4. Dead end**<br>Only one side at the top-right corner of e1 is still open. A line coming in would have nowhere to go, so that side is empty. |
+| <img src="../images/walk_slitherlink_5.png" width="220" alt="Step 5"> | **5. Dead end**<br>Only one side at the top-right corner of e3 is still open. A line coming in would have nowhere to go, so that side is empty. |
+| <img src="../images/walk_slitherlink_6.png" width="220" alt="Step 6"> | **6. Turning a corner**<br>At the top-left corner of a1 only two sides of a1 are left, so the loop either turns that corner (using both) or misses it. Without them the 3 couldn't get enough lines, so the loop turns the corner. |
+| <img src="../images/walk_slitherlink_7.png" width="220" alt="Step 7"> | **7. Turning a corner**<br>At the top-left corner of c3 only two sides of c2 are left, so the loop either turns that corner (using both) or misses it. The 1 there can't take two more lines, so both sides are empty. |
+| <img src="../images/walk_slitherlink_8.png" width="220" alt="Step 8"> | **8. Turning a corner**<br>At the top-left corner of c4 only two sides of c4 are left, so the loop either turns that corner (using both) or misses it. The 1 there can't take two more lines, so both sides are empty. |
+| <img src="../images/walk_slitherlink_9.png" width="220" alt="Step 9"> | **9. Try a what-if**<br>Imagine drawing a line on the highlighted side. Following the rules from there (numbers, and two lines at every dot) quickly breaks something. So that side must be empty. |
+| <img src="../images/walk_slitherlink_10.png" width="220" alt="Step 10"> | **10. Dead end**<br>Only one side at the top-left corner of e2 is still open. A line coming in would have nowhere to go, so that side is empty. |
+| <img src="../images/walk_slitherlink_11.png" width="220" alt="Step 11"> | **11. Dead end**<br>Only one side at the top-left corner of e1 is still open. A line coming in would have nowhere to go, so that side is empty. |
+| <img src="../images/walk_slitherlink_12.png" width="220" alt="Step 12"> | **12. Try a what-if**<br>Imagine drawing a line on the highlighted side. Following the rules from there (numbers, and two lines at every dot) quickly breaks something. So that side must be empty. From here, the same techniques finish the puzzle. |
+| <img src="../images/walk_slitherlink_solved.png" width="220" alt="Solved"> | **Solved!** Every rule is met. Now try a puzzle of your own. |
+
 [← All puzzles](README.md) · [Using the app](../using-the-app.md)

@@ -9,7 +9,7 @@
 </p>
 
 Panda Pairs, Sudoku, Star Battle, Sun & Moon, Slitherlink, Trail, Minesweeper, Light Up, Link Up,
-Bridges, Rectangles, Towers, Islands and Pearls. Every puzzle comes in several board sizes and
+Bridges, Rectangles, Towers, Islands, Hex Islands and Pearls. Every puzzle comes in several board sizes and
 difficulties, with a daily puzzle everyone shares, streaks, best times and shareable puzzle codes.
 
 - **[User guide](docs/README.md)**: install, play, hints, daily puzzles, sharing and settings

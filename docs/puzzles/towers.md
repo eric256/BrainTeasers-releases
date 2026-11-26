@@ -30,4 +30,23 @@ Tap 🎓 on the Towers menu for a short tutorial: these pages, then a guided puz
 
 **3. Solved!.** Every row and column has each height once, and every edge number counts right. Now build one yourself — the coach will guide you step by step.
 
+## Walkthrough
+
+The tutorial puzzle, solved step by step the way the in-app coach explains it. Each picture shows the board before the step, with the part of the board the step is about highlighted.
+
+| Board | Step |
+|---|---|
+| <img src="../images/walk_towers_1.png" width="220" alt="Step 1"> | **1. A 1 sees only the tallest**<br>The 1 below column d means you can see only one tower from the bottom. That only works if the tallest tower, 4, stands right at the edge and hides all the others. So d4 is 4. |
+| <img src="../images/walk_towers_2.png" width="220" alt="Step 2"> | **2. A 1 sees only the tallest**<br>The 1 left of row 2 means you can see only one tower from the left. That only works if the tallest tower, 4, stands right at the edge and hides all the others. So a2 is 4. |
+| <img src="../images/walk_towers_3.png" width="220" alt="Step 3"> | **3. Every tower in view**<br>The 4 above column d means you can see all 4 towers from the top. No tower may hide another, so they must rise one step at a time: 1, 2, 3, 4. |
+| <img src="../images/walk_towers_4.png" width="220" alt="Step 4"> | **4. Every tower in view**<br>The 4 below column c means you can see all 4 towers from the bottom. No tower may hide another, so they must rise one step at a time: 1, 2, 3, 4. |
+| <img src="../images/walk_towers_5.png" width="220" alt="Step 5"> | **5. Last square in the line**<br>Row 2 has only one empty square left. The only height it's missing is 1. |
+| <img src="../images/walk_towers_6.png" width="220" alt="Step 6"> | **6. Only one place for 4**<br>Where can the 4 go in row 3? The other empty squares are ruled out — a3: column a already has a 4. So the 4 must go at b3. |
+| <img src="../images/walk_towers_7.png" width="220" alt="Step 7"> | **7. Last square in the line**<br>Row 3 has only one empty square left. The only height it's missing is 1. |
+| <img src="../images/walk_towers_8.png" width="220" alt="Step 8"> | **8. Only one place for 3**<br>Where can the 3 go in row 4? The other empty squares are ruled out — a4: it's right next to the 3 left of row 4, so it can be at most 2 (a taller tower there would hide too many to leave 3 in view). So the 3 must go at b4. |
+| <img src="../images/walk_towers_9.png" width="220" alt="Step 9"> | **9. Last square in the line**<br>Row 4 has only one empty square left. The only height it's missing is 2. |
+| <img src="../images/walk_towers_10.png" width="220" alt="Step 10"> | **10. Last square in the line**<br>Column a has only one empty square left. The only height it's missing is 3. |
+| <img src="../images/walk_towers_11.png" width="220" alt="Step 11"> | **11. Last square in the line**<br>Row 1 has only one empty square left. The only height it's missing is 2. |
+| <img src="../images/walk_towers_solved.png" width="220" alt="Solved"> | **Solved!** Every rule is met. Now try a puzzle of your own. |
+
 [← All puzzles](README.md) · [Using the app](../using-the-app.md)

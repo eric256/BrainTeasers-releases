@@ -30,4 +30,24 @@ Tap 🎓 on the Light Up menu for a short tutorial: these pages, then a guided p
 
 **3. Solved!.** Everything is lit and no bulbs see each other. Your turn!
 
+## Walkthrough
+
+The tutorial puzzle, solved step by step the way the in-app coach explains it. Each picture shows the board before the step, with the part of the board the step is about highlighted.
+
+| Board | Step |
+|---|---|
+| <img src="../images/walk_lightup_1.png" width="220" alt="Step 1"> | **1. Nothing next to a 0**<br>A 0 means no bulb touches it, so the squares above, below, left and right of the 0 at b2 are all empty. |
+| <img src="../images/walk_lightup_2.png" width="220" alt="Step 2"> | **2. Nothing next to a 0**<br>A 0 means no bulb touches it, so the squares above, below, left and right of the 0 at a5 are all empty. |
+| <img src="../images/walk_lightup_3.png" width="220" alt="Step 3"> | **3. Nothing next to a 0**<br>A 0 means no bulb touches it, so the squares above, below, left and right of the 0 at a6 are all empty. |
+| <img src="../images/walk_lightup_4.png" width="220" alt="Step 4"> | **4. Every spot is needed**<br>The 2 at a2 needs 2 bulbs, and it has exactly 2 open squares beside it. So they all hold bulbs. |
+| <img src="../images/walk_lightup_5.png" width="220" alt="Step 5"> | **5. Already lit**<br>The bulb at a1 shines along its row and column until it hits a wall. A lit square can't hold another bulb, so these squares are empty. |
+| <img src="../images/walk_lightup_6.png" width="220" alt="Step 6"> | **6. Only one way to light it**<br>C2 isn't lit yet, and the only square left that could light it is d2. So the bulb goes there. |
+| <img src="../images/walk_lightup_7.png" width="220" alt="Step 7"> | **7. Already lit**<br>The bulb at d2 shines along its row and column until it hits a wall. A lit square can't hold another bulb, so these squares are empty. |
+| <img src="../images/walk_lightup_8.png" width="220" alt="Step 8"> | **8. Every spot is needed**<br>The 2 at d7 needs 2 bulbs, and it has exactly 2 open squares beside it. So they all hold bulbs. |
+| <img src="../images/walk_lightup_9.png" width="220" alt="Step 9"> | **9. Already lit**<br>The bulb at c7 shines along its row and column until it hits a wall. A lit square can't hold another bulb, so these squares are empty. |
+| <img src="../images/walk_lightup_10.png" width="220" alt="Step 10"> | **10. Already lit**<br>The bulb at e7 shines along its row and column until it hits a wall. A lit square can't hold another bulb, so these squares are empty. |
+| <img src="../images/walk_lightup_11.png" width="220" alt="Step 11"> | **11. Every spot is needed**<br>The 1 at f6 needs 1 bulb, and it has exactly 1 open square beside it. So they all hold bulbs. |
+| <img src="../images/walk_lightup_12.png" width="220" alt="Step 12"> | **12. Already lit**<br>The bulb at f5 shines along its row and column until it hits a wall. A lit square can't hold another bulb, so these squares are empty. From here, the same techniques finish the puzzle. |
+| <img src="../images/walk_lightup_solved.png" width="220" alt="Solved"> | **Solved!** Every rule is met. Now try a puzzle of your own. |
+
 [← All puzzles](README.md) · [Using the app](../using-the-app.md)
