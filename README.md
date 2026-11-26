@@ -37,3 +37,10 @@ network access is checking this repository for updates and downloading them.
 
 Brain Teasers uses open-source libraries under the Apache License 2.0. The full list is in the app under
 **Open-source licenses** at the bottom of the home screen.
+
+## For maintainers: publishing a version
+
+Add a folder `releases/vX.Y.Z/` containing the signed `BrainTeasers-X.Y.Z.apk` and `notes.md`, then push to
+`main`. The **Publish releases** workflow creates the GitHub release, attaches the APK, checks (or adds)
+the `SHA-256:` line the app uses to verify downloads, and marks it as the latest release. Existing releases
+are never changed. The `publish_release.sh` script in the app's source repository does all of this.

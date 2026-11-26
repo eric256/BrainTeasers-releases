@@ -1,0 +1,61 @@
+# Publishes a GitHub release for every releases/vX.Y.Z/ folder that doesn't have one yet.
+# Each folder holds the signed APK (BrainTeasers-X.Y.Z.apk) and notes.md (the release notes).
+# The app's updater reads the latest release, so notes must end with "SHA-256: <apk checksum>";
+# this workflow adds that line if it's missing and stops if it doesn't match the APK.
+name: Publish releases
+
+on:
+  push:
+    branches: [main]
+    paths: ["releases/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-releases
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Publish new versions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          dirs=(releases/v*/)
+          if [ ${#dirs[@]} -eq 0 ]; then echo "No release folders yet."; exit 0; fi
+          # Oldest first, so the newest version ends up marked "latest".
+          for dir in $(printf '%s\n' "${dirs[@]}" | sort -V); do
+            tag=$(basename "$dir")
+            if gh release view "$tag" >/dev/null 2>&1; then
+              echo "$tag is already published."
+              continue
+            fi
+            apks=("$dir"*.apk)
+            if [ ${#apks[@]} -ne 1 ]; then echo "::error::$dir must contain exactly one .apk"; exit 1; fi
+            apk="${apks[0]}"
+            notes="${dir}notes.md"
+            [ -f "$notes" ] || { echo "::error::$notes is missing"; exit 1; }
+            sha=$(sha256sum "$apk" | cut -d' ' -f1)
+            body=$(mktemp)
+            cp "$notes" "$body"
+            if grep -qiE '^SHA-?256:' "$body"; then
+              grep -qiE "^SHA-?256:[[:space:]]*$sha[[:space:]]*$" "$body" \
+                || { echo "::error::The SHA-256 in $notes doesn't match $apk"; exit 1; }
+            else
+              printf '\nSHA-256: %s\n' "$sha" >> "$body"
+            fi
+            echo "Publishing $tag ($apk, sha256 $sha)"
+            gh release create "$tag" "$apk" \
+              --title "Brain Teasers ${tag#v}" \
+              --notes-file "$body" \
+              --target "$GITHUB_SHA" \
+              --latest
+          done
