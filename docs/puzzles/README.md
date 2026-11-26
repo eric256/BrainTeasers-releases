@@ -16,6 +16,10 @@
 | <img src="../images/play_towers.png" width="120"> | **[Towers](towers.md)** | Build towers so the edge counts add up |
 | <img src="../images/play_islands.png" width="120"> | **[Islands](islands.md)** | Shade the sea around numbered islands |
 | <img src="../images/play_hexislands.png" width="120"> | **[Hex Islands](hexislands.md)** | Islands on a honeycomb of hexagons |
+| <img src="../images/play_hexmines.png" width="120"> | **[Hex Minesweeper](hexmines.md)** | Find the mines on a honeycomb |
+| <img src="../images/play_hexlinkup.png" width="120"> | **[Hex Link Up](hexlinkup.md)** | Join matching numbers across hexes |
+| <img src="../images/play_hextrail.png" width="120"> | **[Hex Trail](hextrail.md)** | Number every cell in one winding path |
+| <img src="../images/play_hexbridges.png" width="120"> | **[Hex Bridges](hexbridges.md)** | Bridge the islands in six directions |
 | <img src="../images/play_pearls.png" width="120"> | **[Pearls](pearls.md)** | Draw one loop through every pearl |
 
 [← User guide](../README.md)
