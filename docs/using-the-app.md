@@ -10,6 +10,10 @@ big tiles.
 
 **Have a puzzle code from a friend?** opens a puzzle someone shared with you (see [Sharing](#sharing)).
 
+**Continue** lists puzzles you started but haven't finished, with your time so far: tap one to carry on
+exactly where you left off. Tap ✕ to drop one, or **Clear all** to drop them all. Each puzzle keeps one
+unfinished daily, one new and one shared puzzle; solving it removes it from the list.
+
 ## A puzzle's menu
 
 <img src="images/menu.png" width="280" alt="A puzzle's menu">
