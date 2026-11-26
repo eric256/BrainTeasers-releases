@@ -80,6 +80,8 @@ The profile button at the top right of the home screen shows your overall stats,
 - **Look:** Classic, Pencil (graphite on paper, like the puzzle books), Neon (glowing lines on a midnight board) or High contrast (bold and colour-blind friendly)
 - **Light or dark:** System, Light or Dark (Neon is always dark)
 - **Home screen:** list or tiles
+
+<img src="images/themes.png" width="640" alt="Classic, Pencil, Neon and High contrast themes">
 - **What's new**, **Check for updates** and **Open-source licenses**
 
 Google Play Games sign-in (achievements, leaderboards and saving across devices) is planned.
