@@ -1,22 +1,26 @@
-# Brain Teasers — Android releases
+# Brain Teasers
 
-Downloads for **Brain Teasers**, a collection of logic puzzles for Android: Panda Pairs, Sudoku,
-Star Battle, Nonogram, Sun & Moon, Slitherlink, Trail, Minesweeper and Lights Out. Every puzzle is
-generated on your phone and has exactly one solution, with daily puzzles, streaks, written hints that
-teach you how to play, and shareable puzzle codes.
+**Logic puzzles for Android, generated on your phone, each with exactly one solution, and hints that teach you how to solve them.**
 
-## Install
+<p>
+<img src="docs/images/home.png" width="240" alt="Home screen">
+<img src="docs/images/play_panda.png" width="240" alt="Panda Pairs with a hint">
+<img src="docs/images/menu.png" width="240" alt="A puzzle's menu">
+</p>
 
-1. Open the [latest release](https://github.com/eric256/BrainTeasers-releases/releases/latest) on your
-   Android phone (Android 8.0 or newer).
-2. Download the `.apk` file under **Assets**.
-3. Open it. If Android asks, allow your browser or files app to install unknown apps, then tap **Install**.
+Panda Pairs, Sudoku, Star Battle, Sun & Moon, Slitherlink, Trail, Minesweeper, Light Up, Link Up,
+Bridges, Rectangles, Towers, Islands and Pearls. Every puzzle comes in several board sizes and
+difficulties, with a daily puzzle everyone shares, streaks, best times and shareable puzzle codes.
 
-## Updates
+- **[User guide](docs/README.md)**: install, play, hints, daily puzzles, sharing and settings
+- **[The puzzles](docs/puzzles/README.md)**: rules, controls and tips for each one
+- **[FAQ](docs/faq.md)**
 
-The app checks this page for new versions about once a day (or tap **Check for updates** at the bottom
-of the home screen). When one is available it shows what's new and can download and install it for you.
-You can also choose **Later** or **Skip this version**.
+## Download
+
+Get the `.apk` from the **[latest release](https://github.com/eric256/BrainTeasers-releases/releases/latest)**
+on your Android phone (Android 8.0 or newer) and open it. Step-by-step directions are in
+[Installing and updating](docs/README.md#installing).
 
 ## Is the download genuine?
 
@@ -30,17 +34,10 @@ key, so updates can only come from the same publisher. You can check a download 
 
 ## Privacy
 
-The app has no accounts, ads or analytics. Your history, streaks and gallery stay on your phone. The only
-network access is checking this repository for updates and downloading them.
+No accounts, ads or analytics. Your history, streaks and settings stay on your phone. The only network
+access is checking this page for updates and downloading them.
 
 ## Open-source software
 
-Brain Teasers uses open-source libraries under the Apache License 2.0. The full list is in the app under
-**Open-source licenses** at the bottom of the home screen.
-
-## For maintainers: publishing a version
-
-Add a folder `releases/vX.Y.Z/` containing the signed `BrainTeasers-X.Y.Z.apk` and `notes.md`, then push to
-`main`. The **Publish releases** workflow creates the GitHub release, attaches the APK, checks (or adds)
-the `SHA-256:` line the app uses to verify downloads, and marks it as the latest release. Existing releases
-are never changed. The `publish_release.sh` script in the app's source repository does all of this.
+Brain Teasers uses open-source libraries under the Apache License 2.0. The full list is in the app:
+tap the profile button on the home screen, then **Open-source licenses**.
