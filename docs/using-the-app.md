@@ -58,7 +58,8 @@ You can leave a tutorial at any time and come back later. Tutorials don't affect
 ## Sharing
 
 Tap the share button while playing to send the puzzle to a friend. After you solve one, you can share it
-with your time as a challenge to beat. Your friend opens the link or types the code (like `PND2v3-H4F9K2Q7A`)
+with your time as a challenge to beat. You can also share any puzzle from **History & best times** on a puzzle's menu: tap the share button next
+to it (puzzles solved before version 1.9.0 don't have one). Your friend opens the link or types the code (like `PND2v3-H4F9K2Q7A`)
 under **Have a puzzle code from a friend?** on the home screen, and gets exactly the same puzzle.
 
 Codes made by a newer version of the app ask you to update first, so you never get a different puzzle by
