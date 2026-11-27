@@ -16,7 +16,7 @@ Big boards scroll: drag to move around, and pinch or use − / + to zoom. On the
 
 ## Sizes and difficulty
 
-Board sizes: 8×8, 10×10, 12×12, 16×16, 16×30, 30×30, 50×50. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 8×8, 10×10, 12×12, 16×16, 16×30, 30×30, 50×50, 9×14, 12×20. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 

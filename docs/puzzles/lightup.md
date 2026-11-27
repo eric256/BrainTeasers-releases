@@ -18,7 +18,7 @@ Tap a square once to mark it as empty (a dot), again for a bulb, and once more t
 
 ## Sizes and difficulty
 
-Board sizes: 7×7, 10×10, 12×12. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 7×7, 10×10, 12×12, 7×10, 10×14. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 

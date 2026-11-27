@@ -18,7 +18,7 @@ Tap a square to cycle: sun → moon → blank. Turn on "Highlight mistakes" belo
 
 ## Sizes and difficulty
 
-Board sizes: 6×6, 8×8, 10×10. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 6×6, 8×8, 10×10, 6×8, 8×12. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 

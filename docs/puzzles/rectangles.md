@@ -16,7 +16,7 @@ Drag from one corner to the opposite corner to draw a rectangle. Tap a rectangle
 
 ## Sizes and difficulty
 
-Board sizes: 6×6, 9×9, 12×12. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 6×6, 9×9, 12×12, 6×9, 9×13. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 

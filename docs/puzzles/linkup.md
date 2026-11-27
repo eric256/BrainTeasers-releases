@@ -18,7 +18,7 @@ Drag from a number to draw its line. Drag back along a line to shorten it, or ta
 
 ## Sizes and difficulty
 
-Board sizes: 5×5, 7×7, 9×9. Difficulty: Easy, Medium, Hard, Expert. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 5×5, 7×7, 9×9, 5×8, 7×11, 9×13. Difficulty: Easy, Medium, Hard, Expert. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 

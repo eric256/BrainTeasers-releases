@@ -14,7 +14,7 @@ Drag from 1 to draw. Drag back along the path to undo steps, or touch any square
 
 ## Sizes and difficulty
 
-Board sizes: 5×5, 6×6, 7×7, 8×8. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 5×5, 6×6, 7×7, 8×8, 5×7, 6×9. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 

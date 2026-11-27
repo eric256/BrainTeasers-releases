@@ -18,7 +18,7 @@ Drag across the squares to draw the loop; drag back to take back the last step, 
 
 ## Sizes and difficulty
 
-Board sizes: 6×6, 8×8, 10×10, 12×12. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 6×6, 8×8, 10×10, 12×12, 6×9, 8×12. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 

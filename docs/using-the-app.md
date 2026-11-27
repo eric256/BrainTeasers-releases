@@ -4,7 +4,8 @@
 
 <img src="images/home.png" width="280" alt="Home screen"> <img src="images/home_dark.png" width="280" alt="Home screen in dark mode">
 
-Every puzzle is listed with its daily-puzzle status and your streak. Tap ☆ to make a puzzle a
+Every puzzle is listed with its daily-puzzle status, your streak and how many of its levels you've
+unlocked (see [Unlocking levels](#unlocking-levels)). Tap ☆ to make a puzzle a
 favourite (the same star is on each puzzle's menu and at the top of its play screen): favourites are listed first. The button next to the profile icon switches between a list and
 big tiles.
 
@@ -24,9 +25,20 @@ Tap a puzzle to see:
   bigger and harder at the weekend. Solve at least one puzzle of a game each day to keep its 🔥 streak.
 - **New puzzle:** choose a board **size** and a **difficulty** (Easy, Medium or Hard; Link Up also has
   Expert), then **Play**. Your choice is remembered. Harder doesn't just mean bigger: hard puzzles need
-  deeper reasoning, while easy ones can be solved one simple step at a time.
+  deeper reasoning, while easy ones can be solved one simple step at a time. Many puzzles come in
+  phone-shaped sizes too (like 7×11), which fill the screen better than square boards. Sizes are listed
+  from smallest to largest; locked ones show a 🔒 and the Play button says what opens them.
+- **Highlight mistakes:** whether this puzzle marks broken rules in red (also in the ⋮ menu while you play).
 - **History & best times:** your best time for every size and difficulty, and every puzzle you've solved.
 - **🎓** at the top opens the tutorial, and **ⓘ** shows the rules.
+
+### Unlocking levels
+
+Each puzzle starts with its smallest Easy board. Solve 3 puzzles at a level to open the next difficulty
+at that size and the next size up at that difficulty. Every solve counts, daily puzzles and puzzles from
+friends included, and levels you've already played stay open. When a solve opens something new, the
+finishing screen offers to play it straight away. Daily and shared puzzles can always be played. Rather
+skip it? **Unlock every size and difficulty** in Profile & settings opens everything.
 
 <img src="images/history.png" width="280" alt="History and best times">
 
@@ -35,8 +47,9 @@ Tap a puzzle to see:
 <img src="images/play_sudoku.png" width="280" alt="Sudoku with a hint">
 
 The timer runs while you play and pauses when you leave the app. Most puzzles mark broken rules in red
-(two equal numbers in a row, an over-full clue, a 2×2 pool…); the **Highlight mistakes** switch under the
-board turns this off if you'd rather find them yourself. It's remembered for each puzzle. **Undo** takes back your last move.
+(two equal numbers in a row, an over-full clue, a 2×2 pool…); turn **Highlight mistakes** off in the ⋮
+puzzle menu (or on the puzzle's menu) if you'd rather find them yourself. It's remembered for each puzzle.
+The ⋮ menu also has **How to play**. **Undo** takes back your last move.
 Letters along the top and numbers down the side name every square, like a chessboard: hints say things
 like "the 2 at h6".
 
@@ -53,7 +66,8 @@ Stuck? Tap **Hint**. Hints don't just reveal an answer: they explain the next lo
 squares involved, and offer **Show me** to make the move for you. If you've made a mistake, the hint
 points it out first.
 
-After you use a hint, the Hint button recharges for 10 seconds (it shows a countdown). Solves that used
+Daily puzzles have no hints: everyone's daily time is their own. After you use a hint, the Hint button
+recharges for 10 seconds (it shows a countdown). Solves that used
 hints are marked "with hints" and don't count for best times.
 
 In Minesweeper, if you open a mine, the game shows the step the numbers offered instead.
@@ -93,6 +107,7 @@ The profile button at the top right of the home screen shows your overall stats,
   - **Paper cut**: layers of cut paper with soft shadows
   - **Watercolour**: soft washes of paint on textured paper
 - **Light or dark:** System, Light or Dark (Neon and Chalkboard are always dark, Watercolour always light)
+- **Puzzles:** **Unlock every size and difficulty** skips the unlock path
 - **Home screen:** list or tiles
 
 <img src="images/themes.png" width="640" alt="Star Battle in all ten themes">

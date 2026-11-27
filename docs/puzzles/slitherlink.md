@@ -18,7 +18,7 @@ Tap between two dots to draw a line, tap again to cross it out (definitely not u
 
 ## Sizes and difficulty
 
-Board sizes: 5×5, 7×7, 10×10. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
+Board sizes: 5×5, 7×7, 10×10, 5×7, 7×10. Difficulty: Easy, Medium, Hard. The daily puzzle is small and easy early in the week and bigger and harder at the weekend.
 
 ## Learn to play
 
