@@ -103,7 +103,7 @@ The profile button at the top right of the home screen shows your overall stats,
   - **Neon**: glowing lines on a midnight board
   - **High contrast**: bold and colour-blind friendly
   - **Blueprint**: white technical lines on blueprint blue (blue on white in light mode)
-  - **Low-poly**: faceted, geometric shading
+  - **Origami**: folded paper squares; pieces lift off the page
   - **Chalkboard**: chalk on a slate-green board
   - **Retro pixel**: chunky pixels and an 8-bit palette
   - **Paper cut**: layers of cut paper with soft shadows
