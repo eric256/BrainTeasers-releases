@@ -108,12 +108,14 @@ The profile button at the top right of the home screen shows your overall stats,
   - **Retro pixel**: chunky pixels and an 8-bit palette
   - **Paper cut**: layers of cut paper with soft shadows
   - **Watercolour**: soft washes of paint on textured paper
-- **Light or dark:** System, Light or Dark (Neon and Chalkboard are always dark, Watercolour always light)
+- **Light or dark:** System, Light or Dark (Neon and Chalkboard are always dark, Watercolour always light). You can also change the theme and light or dark without leaving a puzzle: tap the palette button on the home screen or a puzzle's menu, or ⋮ → **Appearance** while playing.
 - **Puzzles:** **Unlock every size and difficulty** skips the unlock path
 - **Home screen:** list or tiles
 
 <img src="images/themes.png" width="640" alt="Star Battle in all ten themes">
 - **What's new**, **Check for updates** and **Open-source licenses**
+
+On a tablet or an open foldable turned sideways, the board sits on the left with the buttons (and any hint) beside it, and each puzzle's menu shows its rules next to the play options.
 
 Google Play Games sign-in (achievements, leaderboards and saving across devices) is planned.
 
