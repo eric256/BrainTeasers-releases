@@ -40,6 +40,10 @@ board turns this off if you'd rather find them yourself. It's remembered for eac
 Letters along the top and numbers down the side name every square, like a chessboard: hints say things
 like "the 2 at h6".
 
+**Zoom:** pinch with two fingers to zoom in on any board, and drag with two fingers to move around (one
+finger still plays). **Reset zoom** above the board goes back to the whole puzzle. On big Minesweeper
+boards one finger drags the board, and pinching or the − / + buttons change the size.
+
 When you finish, you'll see your time, your best time at that size and difficulty, and your streak.
 The ↻ button at the top starts a new puzzle with the same settings.
 
