@@ -5,7 +5,7 @@
 <img src="images/home.png" width="280" alt="Home screen"> <img src="images/home_dark.png" width="280" alt="Home screen in dark mode">
 
 Every puzzle is listed with its daily-puzzle status and your streak. Tap ☆ to make a puzzle a
-favourite: favourites are listed first. The button next to the profile icon switches between a list and
+favourite (the same star is on each puzzle's menu and at the top of its play screen): favourites are listed first. The button next to the profile icon switches between a list and
 big tiles.
 
 **Have a puzzle code from a friend?** opens a puzzle someone shared with you (see [Sharing](#sharing)).
@@ -81,8 +81,18 @@ mistake.
 
 The profile button at the top right of the home screen shows your overall stats, and lets you choose:
 
-- **Look:** Classic, Pencil (graphite on paper, like the puzzle books), Neon (glowing lines on a midnight board) or High contrast (bold and colour-blind friendly)
-- **Light or dark:** System, Light or Dark (Neon is always dark)
+- **Look:** ten themes. Each one restyles every board and the puzzle icons:
+  - **Classic**: the original look
+  - **Pencil**: graphite on paper, like the puzzle books
+  - **Neon**: glowing lines on a midnight board
+  - **High contrast**: bold and colour-blind friendly
+  - **Blueprint**: white technical lines on blueprint blue (blue on white in light mode)
+  - **Low-poly**: faceted, geometric shading
+  - **Chalkboard**: chalk on a slate-green board
+  - **Retro pixel**: chunky pixels and an 8-bit palette
+  - **Paper cut**: layers of cut paper with soft shadows
+  - **Watercolour**: soft washes of paint on textured paper
+- **Light or dark:** System, Light or Dark (Neon and Chalkboard are always dark, Watercolour always light)
 - **Home screen:** list or tiles
 
 <img src="images/themes.png" width="640" alt="Classic, Pencil, Neon and High contrast themes">
