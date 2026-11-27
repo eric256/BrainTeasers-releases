@@ -1,3 +1,5 @@
+<img src="docs/images/icon.png" width="96" alt="Brain Teasers icon" align="right">
+
 # Brain Teasers
 
 **Logic puzzles for Android, generated on your phone, each with exactly one solution, and hints that teach you how to solve them.**
