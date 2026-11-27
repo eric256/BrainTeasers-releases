@@ -21,5 +21,6 @@
 | <img src="../images/play_hextrail.png" width="120"> | **[Hex Trail](hextrail.md)** | Number every cell in one winding path |
 | <img src="../images/play_hexbridges.png" width="120"> | **[Hex Bridges](hexbridges.md)** | Bridge the islands in six directions |
 | <img src="../images/play_pearls.png" width="120"> | **[Pearls](pearls.md)** | Draw one loop through every pearl |
+| <img src="../images/play_pipes.png" width="120"> | **[Pipes](pipes.md)** | Turn the tiles to join every pipe |
 
 [← User guide](../README.md)

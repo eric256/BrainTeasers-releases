@@ -95,7 +95,7 @@ The profile button at the top right of the home screen shows your overall stats,
 - **Light or dark:** System, Light or Dark (Neon and Chalkboard are always dark, Watercolour always light)
 - **Home screen:** list or tiles
 
-<img src="images/themes.png" width="640" alt="Classic, Pencil, Neon and High contrast themes">
+<img src="images/themes.png" width="640" alt="Star Battle in all ten themes">
 - **What's new**, **Check for updates** and **Open-source licenses**
 
 Google Play Games sign-in (achievements, leaderboards and saving across devices) is planned.

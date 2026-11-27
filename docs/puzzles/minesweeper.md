@@ -12,7 +12,7 @@
 
 The Flag tool is selected when you start: tap squares to cycle 🚩 flag → ? (just a note while you think — it doesn't count as a flag) → blank. Switch to Open to uncover squares; long-press flags in either mode. Tap an opened number whose mines are all flagged to open the rest of its neighbours.
 
-Big boards scroll: drag to move around and use − / + to zoom. On the largest boards a few extra safe areas may start open so no guessing is ever needed.
+Big boards scroll: drag to move around, and pinch or use − / + to zoom. On the largest boards a few extra safe areas may start open so no guessing is ever needed.
 
 ## Sizes and difficulty
 
