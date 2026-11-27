@@ -27,7 +27,7 @@ Tap a puzzle to see:
   Expert), then **Play**. Your choice is remembered. Harder doesn't just mean bigger: hard puzzles need
   deeper reasoning, while easy ones can be solved one simple step at a time. Many puzzles come in
   phone-shaped sizes too (like 7×11), which fill the screen better than square boards. Sizes are listed
-  from smallest to largest; locked ones show a 🔒 and the Play button says what opens them.
+  from smallest to largest; locked ones are greyed out with a 🔒, and the line under Play says what opens next.
 - **Highlight mistakes:** whether this puzzle marks broken rules in red (also in the ⋮ menu while you play).
 - **History & best times:** your best time for every size and difficulty, and every puzzle you've solved.
 - **🎓** at the top opens the tutorial, and **ⓘ** shows the rules.
@@ -35,8 +35,10 @@ Tap a puzzle to see:
 ### Unlocking levels
 
 Each puzzle starts with its smallest Easy board. Solve 3 puzzles at a level to open the next difficulty
-at that size and the next size up at that difficulty. Every solve counts, daily puzzles and puzzles from
-friends included, and levels you've already played stay open. When a solve opens something new, the
+at that size and the next size up at that difficulty. Locked sizes and difficulties are greyed out.
+Every solve counts at its own level, daily puzzles and puzzles from friends included: a solve at a level
+that's still locked is kept for when the path gets there. Levels you'd played before unlocks arrived
+stay open. When a solve opens something new, the
 finishing screen offers to play it straight away. Daily and shared puzzles can always be played. Rather
 skip it? **Unlock every size and difficulty** in Profile & settings opens everything.
 
